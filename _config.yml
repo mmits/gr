@@ -13,11 +13,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
-name                     : "mmits"
+name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://mmits.github.io"
+url                      : "https://mibook.github.io"
 baseurl                  : "/gr"
-repository               : "mmits/gr"
+repository               : "mibook/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -66,14 +66,14 @@ author:
   location         :
   email            :
   uri              :
-  home             : "https://mmits.github.io/gr"
+  home             : "http://mibook.org/gr"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mmits/gr"
+  github           : "mibook"
   gitlab           :
   google_plus      :
   keybase          :
