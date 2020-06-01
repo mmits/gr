@@ -14,4 +14,4 @@ gallery:
 
 {% include_relative cs-assembly.md %}
 
-{% include slides.html %}
+{% include slides.html caption="Η πρώτη γλώσσα προγραμματισμού" %}
