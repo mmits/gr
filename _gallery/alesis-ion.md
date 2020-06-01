@@ -1,6 +1,6 @@
 ---
 author: mmits
-title: active-badge
+title: Alesis Ion
 image_url: /images/Alesis_Ion.jpg
 caption: 'Το synthesizer Alesis Ion χρησιμοποιήθηκε από πολλά μεγάλα ονόματα της μουσικής σκηνής όπως το συγκρότημα The Killers και ο συνθέτης μουσικής για ταινίες Hanz Zimmer.'
 categories:
