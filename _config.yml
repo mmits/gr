@@ -5,8 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-theme: minimal-mistakes-jekyll
-# remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes"
+#theme: minimal-mistakes-jekyll
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "gr-GR"
@@ -15,7 +16,7 @@ title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
 url                      : "https://mmits.github.io"
-baseurl                  : ""
+baseurl                  : "/gr"
 repository               : "mmits/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -169,6 +170,14 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 
 # Archives
