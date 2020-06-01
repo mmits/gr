@@ -9,6 +9,8 @@ categories:
 tags:
   - Bret Victor
 gallery:
+  - image_url: /images/apple-smartwatch.jpg
+    caption: "Το Apple Watch είναι ένα κομμάτι τεχνολογίας στο οποίο ο Victor συνέβαλε ως σχεδιαστής όσο ήταν ακόμη στην Apple"
   - image_url: /images/Bret_Victor.png
     caption: "Ο Bret Victor σε διάλεξη DBX της Dropbox"
   - image_url: /images/Alesis_Ion.jpg
