@@ -1,7 +1,7 @@
 ---
 author: mmits
 title: "Assembly Language"
-image_url: /images/Motorola_6800_Assembly_Language.png
+image_url: /images/assembly-debug.jpg
 caption: "Η Assembly επιτρέπει την επικοινωνία του προγραμματιστή με το hardware του υπολογιστή χωρίς την ανάγκη να γνωρίζει εντολές σε binary"
 categories:
   - case-study
@@ -14,4 +14,4 @@ gallery:
 
 {% include_relative cs-assembly.md %}
 
-{% include slides.html % caption="Η πρώτη γλώσσα προγραμματισμού" %}
+{% include slides.html %}
